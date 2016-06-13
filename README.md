@@ -25,4 +25,4 @@ You can use any HTML in a slide, but bulleted lists and code samples are my most
 
 ## Licence
 
-html-slides is Copyright 2010-2016 by Andy Balaam and is release under the [GNU GPL2](LICENCE) license.
+html-slides is Copyright 2010-2016 by Andy Balaam and is release under the [GNU GPL2](LICENSE) license.
